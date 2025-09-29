@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Liu Yi-Nan‘s (刘轶男) Homepage"
+description              : "Liu Yi-Nan‘s academic portfolio"
+repository               : "https://liuyinan19922.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,16 +21,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  name             : "Liu Yi-Nan 刘轶男"
+  avatar           : "/images/yinan.png"
+  bio              : "Postdoctoral fellow engaged in research on microbial analytical chemistry and microbial biotechnology<br>致力于微生物分析与微生物技术开发的博士后研究员"
+
+  location         : "Singapore"
+  employer         : "Nanyang Technological University"
+  uri              : "www.x-mol.com/people/liuyinannku"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=VOSNlcgAAAAJ"
   email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Yinan-Liu-12"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-0459-1106"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
