@@ -12,12 +12,11 @@ repository               : "https://liuyinan19922.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
+google_analytics_id      :"G-85JBNBBJBP"
 # SEO Related
 google_site_verification :"T7QI2y2YuuSFD5h4R7fm54RINXlG7o8nTmKghjvEhJY"
 bing_site_verification   :"2B57BCE585EE0942A2C7D13119649C42"
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+baidu_site_verification  : # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
