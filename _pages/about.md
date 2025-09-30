@@ -49,49 +49,24 @@ My research lies at the intersection of environmental microbiology, bioelectroch
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.](https://www.pnas.org/doi/10.1073/pnas.2010136117)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Liu, Z.; Liu, J.; Hu, Y.; Cao, B., Unlocking the Potential of Shewanella in Metabolic Engineering: Current Status, Challenges, and Opportunities. Metab. Eng. 2025, 89, 1-11.](https://www.sciencedirect.com/science/article/abs/pii/S1096717625000114)
+1. Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F1.jpeg' alt="sym" width="300" height="200""></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.](https://www.pnas.org/doi/10.1073/pnas.2010136117)
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F1.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.](https://www.pnas.org/doi/10.1073/pnas.2010136117)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F1.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.](https://www.pnas.org/doi/10.1073/pnas.2010136117)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F1.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.](https://www.pnas.org/doi/10.1073/pnas.2010136117)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F1.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.](https://www.pnas.org/doi/10.1073/pnas.2010136117)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F1.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.](https://www.pnas.org/doi/10.1073/pnas.2010136117)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F1.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.](https://www.pnas.org/doi/10.1073/pnas.2010136117)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/F1.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Liu, Y.-N.; Lv, Z. T.; Lv, W. L.; Liu, X.W., Plasmonic Probing of the Adhesion Strength of Single Microbial Cells. Proc. Natl. Acad. Sci. U. S. A. 2020, 117 (44), 27148-27153.](https://www.pnas.org/doi/10.1073/pnas.2010136117)
-
-
-
-
+2. Liu, Y.-N.; Liu, Z.; Liu, J.; Hu, Y.; Cao, B., Unlocking the Potential of Shewanella in Metabolic Engineering: Current Status, Challenges, and Opportunities. Metab. Eng. 2025, 89, 1-11.
+3. Liu, Y.-N.; Liu, X.-W., Nanoscale Spatiotemporal Dynamics of Microbial Adhesion: Unveiling Stepwise Transitions with Plasmonic Imaging. ACS Nano 2024, 18 (24), 16002-16010.
+4. Liu, Y. -N.#; Lv, Z.-T.#; Lv, W.-L.; Liu, D.-F.; Liu, X.-W., Label-Free Optical Imaging of the Electron Transfer in Single Live Microbial Cells. Nano Lett. 2023, 23 (2), 558-566. (#共同第一作者)
+5. Liu, Y. -N.# ; Bairoliya, S.# ; Zaiden, N.; Cao, B., Establishment of Plastic-associated Microbial Community from Superworm Gut Microbiome. Environ. Int. 2023, 108349. (#共同第一作者)
+6. Liu, Y. -N.; Deng, S.; Bairoliya, S.; Cao, B. Mining Microbial Resources from Water. Resour. Conserv. Recycl. 2023, 191, 106883.
+7. Liu, Y. -N.; Min, Y.; Chen, J.-J.; Zhang, F.; Liu, D.-F.; Liu, X.-W.; Tian, T.; Yu, H.-Q., C-Type Cytochromes Facilitated Cd(II) Complexation by an Electrochemically Active Bacterium Shewanella oneidensis MR-1. ACS ES&T Water 2022, 2 (10), 1697-1706.
+8. Liu, Y. -N.#; Lv, Z. T.#; Yang, S. Y.; Liu, X. W., Optical Tracking Interfacial Dynamics of Single SARS-CoV-2 Pseudoviruses. Environ. Sci. Technol. 2021, 55 (7), 4115-4122. (#共同第一作者)
+9. Liu, Y.-N.; Liu, X.-W., Chapter Four-Single-cell plasmonic imaging for activity analysis. In Comprehensive Analytical Chemistry, Chen, Y.-P.; Ma, T.-F., Eds. Elsevier: 2021; Vol. 95, pp 107-143
+10. Liu, Y. -N.; Chen, H. B.; Liu, X. W., Rapid Assessment of Water Toxicity by Plasmonic Nanomechanical Sensing. Anal. Chem. 2020, 92 (1), 1309-1315.
+11. Liu, Y. -N.#; Zhang, F.#; Li, J.; Li, D. B.; Liu, D. F; Li, W. W.; Yu, H. Q., Exclusive Extracellular Bioreduction of Methyl Orange by Azo Reductase-Free Geobacter sulfurreducens. Environ. Sci. Technol. 2017, 51 (15), 8616-8623. (#共同第一作者)
+12. Li, N.#; Liu, Y. -N.#; An, J.; Feng, C.; Wang, X., Bifunctional Quaternary Ammonium Compounds to Inhibit Biofilm Growth and Enhance Performance for Activated Carbon Air-cathode in Microbial Fuel Cells. J. Power Sources 2014, 272, 895-899. (#共同第一作者)
+13. Song, W.; Liu, Y.; Wu, Y.; Wang, C.; Liu, Z.; Liu, Y.-N.; Zhang, X.; Cao, L.; Li, B.; Song, B., Single-Atom Bridges across Biotic-Abiotic Interfaces Facilitate Direct Electron Transfer for Solar-to-Chemical Conversion. Nat. Commun. 2025, 16 (1), 6708
+14. Lv, Z. T.;  Qian, C.; Liu, Y. -N.;  Lv, Y. H.; Liu, X.-W., Optical Tracking of Surfactant-Tuned Bacterial Adhesion: a Single-Cell Imaging Study. Appl. Environ. Microbiol. 2022, 88 (23), e01626-22.
+15. Jiang, D., Zhao, X., Liu, Y. -N., Chen, H. B., Lv, W. L., Qian, C., Liu, X. W., Label-free Probing of Molecule Binding Kinetics Using Single-particle Interferometric Imaging. Anal. Chem. 2021, 93 (22), 7965-7969.
+16. Chen, H. B.; Jiang, D.; Liu, Y. -N.; Qian, C.; Zhou, X.-L.; Liu, X.-W., Probing the Deposition Kinetics of Nanoparticles by Plasmonic Imaging and Counting Single Nanoparticles. Environ. Sci. Technol. Lett. 2020, 7 (5), 298-302. 
+17. Feng, C.; Liu, Y. -N.; Li, Q.; Che, Y.; Li, N.; Wang, X., Quaternary Ammonium Compound in Anolyte without Functionalization Accelerates the Startup of Bioelectrochemical Systems Using Real Wastewater. Electrochim. Acta 2016, 188, 801-808.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -102,7 +77,6 @@ My research lies at the intersection of environmental microbiology, bioelectroch
 - 2021/07 - 2021/07 University of Science and Technology of China, Dept. of Environmental Science and Engineering, Doctor of Engineering  
 
 # 💬 Presentation and Talks
-
 
 - IWA Biofilm 2022: Processes in Biofilms, Dec, 2022, Phuket, Thailand  
 
