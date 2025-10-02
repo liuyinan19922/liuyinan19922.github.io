@@ -57,8 +57,8 @@ My research lies at the intersection of environmental microbiology, bioelectroch
 5. Liu, Y. -N.# ; Bairoliya, S.# ; Zaiden, N.; Cao, B., Establishment of Plastic-associated Microbial Community from Superworm Gut Microbiome. *Environ. Int.* **2023**, 108349. (#共同第一作者)
 6. Liu, Y. -N.; Deng, S.; Bairoliya, S.; Cao, B. Mining Microbial Resources from Water. *Resour. Conserv. Recycl.* **2023**, 191, 106883.
 7. Liu, Y. -N.; Min, Y.; Chen, J.-J.; Zhang, F.; Liu, D.-F.; Liu, X.-W.; Tian, T.; Yu, H.-Q., C-Type Cytochromes Facilitated Cd(II) Complexation by an Electrochemically Active Bacterium Shewanella oneidensis MR-1. *ACS ES&T Water* **2022**, 2 (10), 1697-1706.
-8. Liu, Y. -N.#; Lv, Z. T.#; Yang, S. Y.; Liu, X. W., Optical Tracking Interfacial Dynamics of Single SARS-CoV-2 Pseudoviruses. Environ. Sci. Technol. 2021, 55 (7), 4115-4122. (#共同第一作者)
-9. Liu, Y.-N.; Liu, X.-W., Chapter Four-Single-cell plasmonic imaging for activity analysis. *In Comprehensive Analytical Chemistry*, Chen, Y.-P.; Ma, T.-F., Eds. Elsevier: *2021*; Vol. 95, pp 107-143
+8. Liu, Y. -N.#; Lv, Z. T.#; Yang, S. Y.; Liu, X. W., Optical Tracking Interfacial Dynamics of Single SARS-CoV-2 Pseudoviruses. *Environ. Sci. Technol.* **2021**, 55 (7), 4115-4122. (#共同第一作者)
+9. Liu, Y.-N.; Liu, X.-W., Chapter Four-Single-cell plasmonic imaging for activity analysis. *In Comprehensive Analytical Chemistry*, Chen, Y.-P.; Ma, T.-F., Eds. Elsevier: **2021**; Vol. 95, pp 107-143
 10. Liu, Y. -N.; Chen, H. B.; Liu, X. W., Rapid Assessment of Water Toxicity by Plasmonic Nanomechanical Sensing. *Anal. Chem.* **2020**, 92 (1), 1309-1315.
 11. Liu, Y. -N.#; Zhang, F.#; Li, J.; Li, D. B.; Liu, D. F; Li, W. W.; Yu, H. Q., Exclusive Extracellular Bioreduction of Methyl Orange by Azo Reductase-Free Geobacter sulfurreducens. *Environ. Sci. Technol.* **2017**, 51 (15), 8616-8623. (#共同第一作者)
 12. Li, N.#; Liu, Y. -N.#; An, J.; Feng, C.; Wang, X., Bifunctional Quaternary Ammonium Compounds to Inhibit Biofilm Growth and Enhance Performance for Activated Carbon Air-cathode in Microbial Fuel Cells. *J. Power Sources* **2014**, 272, 895-899. (#共同第一作者)
@@ -77,8 +77,8 @@ My research lies at the intersection of environmental microbiology, bioelectroch
 - *2018* The First Prize in Haichuan Young Scholars Symposium of Ocean University of China 
 
 # 📖 Educations
-- *2011/09 - 2015/07* Nankai University, College of Environmental Science and Engineering, Bachelor of Engineering
-- *2015/09 - 2021/07* University of Science and Technology of China, Dept. of Environmental Science and Engineering, Doctor of Engineering  
+- *2011/09-2015/07* Nankai University, College of Environmental Science and Engineering, Bachelor of Engineering
+- *2015/09-2021/07* University of Science and Technology of China, Dept. of Environmental Science and Engineering, Doctor of Engineering  
 
 # 💬 Presentation and Talks
 
