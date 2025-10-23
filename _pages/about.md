@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# :microscope: My Research Interests
+# 🔬 My Research Interests
 My research lies at the intersection of environmental microbiology, bioelectrochemistry, and microbial biotechnology, focusing on microbial processes at interfaces and their applications in environmental sustainability.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EET</div><img src='images/EET.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 (1) **Microbial extracellular electron transfer** – investigated the mechanisms of electron exchange in electrochemically active bacteria using electrochemical, molecular, and imaging approaches.
-
 
 (2) **Microbe–material interactions** – developed plasmonic imaging techniques to visualize bacterial interfacial adhesion at the single-cell level.  
 
@@ -40,17 +39,16 @@ My research lies at the intersection of environmental microbiology, bioelectroch
 </div>
 </div>
 
-</div>
-</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">News report</div><img src='images/group.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Achievements**: To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS Nano, Nano Letters, Environmental Science & Technology*, and *Applied and Environmental Microbiology*. My work has been recognized with the Chinese Academy of Sciences Outstanding Ph.D. Dissertation Award  and the Presidential Scholarship, and has been featured in international media including China Science Daily, The Straits Times, CNA, and The Manila Times.
-
-
+</div>
+</div>
 ------
 
-#  :microscope:个人研究兴趣
+# 🔬 个人研究兴趣
 
 我重点关注微生物在界面上的作用机制及其在环境可持续发展中的应用，**主要的研究兴趣包括**：
 
