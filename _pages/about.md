@@ -76,7 +76,8 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 2025</div><img src='images/ME2025.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
+
 
 
 - **Liu, Y.-N.**; Liu, Z.; Liu, J.; Hu, Y.; Cao, B., Unlocking the Potential of Shewanella in Metabolic Engineering: Current Status, Challenges, and Opportunities. *Metab. Eng.* **2025**, 89, 1-11.
@@ -84,15 +85,17 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
   </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano 2024</div><img src='images/Nano2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="3">
+<div class='paper-box-text' markdown="1">
+
 
 
 - **Liu, Y.-N.**; Liu, X.-W., Nanoscale Spatiotemporal Dynamics of Microbial Adhesion: Unveiling Stepwise Transitions with Plasmonic Imaging. *ACS Nano* **2024**, 18 (24), 16002-16010.
   </div>
   </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EI 2024</div><img src='images/EI2024.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="4">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EI 2024</div><img src='images/EI2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 
 - **Liu, Y. -N.**# ; Bairoliya, S.# ; Zaiden, N.; Cao, B., Establishment of Plastic-associated Microbial Community from Superworm Gut Microbiome. *Environ. Int.* **2024**, 108349. (#共同第一作者)
@@ -100,7 +103,8 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
   </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2023</div><img src='images/NL2023.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="5">
+<div class='paper-box-text' markdown="1">
+
 
 
 - **Liu, Y. -N.**#; Lv, Z.-T.#; Lv, W.-L.; Liu, D.-F.; Liu, X.-W., Label-Free Optical Imaging of the Electron Transfer in Single Live Microbial Cells. *Nano Lett.* **2023**, 23 (2), 558-566. (#共同第一作者)
