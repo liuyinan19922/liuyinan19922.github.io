@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 # 🔬 My Research Interests
 My research lies at the intersection of environmental microbiology, bioelectrochemistry, and microbial biotechnology, focusing on microbial processes at interfaces and their applications in environmental sustainability.
 
@@ -40,12 +39,9 @@ My research lies at the intersection of environmental microbiology, bioelectroch
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">News report</div><img src='images/group.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## **Achievements** 
+To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS Nano, Nano Letters, Environmental Science & Technology*, and *Applied and Environmental Microbiology*. My work has been recognized with the Chinese Academy of Sciences Outstanding Ph.D. Dissertation Award  and the Presidential Scholarship, and has been featured in international media including China Science Daily, The Straits Times, CNA, and The Manila Times.
 
-**Achievements**: To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS Nano, Nano Letters, Environmental Science & Technology*, and *Applied and Environmental Microbiology*. My work has been recognized with the Chinese Academy of Sciences Outstanding Ph.D. Dissertation Award  and the Presidential Scholarship, and has been featured in international media including China Science Daily, The Straits Times, CNA, and The Manila Times.
-</div>
-</div>
 ------
 
 # 🔬 个人研究兴趣
@@ -54,7 +50,7 @@ My research lies at the intersection of environmental microbiology, bioelectroch
 
 （1）**微生物胞外电子传递** : 通过电化学、分子生物学和成像技术，揭示电活性细菌的电子交换机制。
 
-（2）**微生物–材料相互作用** ：开发单细菌分析技术，实现单细胞水平上细菌界面黏附过程的可视化。                                                                                                                                                                                 
+（2）**微生物–材料相互作用** ：开发单细菌分析技术，实现单细胞水平上细菌界面黏附过程的可视化。                                                                                                                                                                    
 
 （3）**微生物塑料降解** : 解析微生物群落及关键酶在合成高分子降解中的作用，并结合宏基因组学与生物信息学进行研究。
 
@@ -79,28 +75,32 @@ My research lies at the intersection of environmental microbiology, bioelectroch
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 2025</div><img src='images/ME2025.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="2">
+
 
 2. **Liu, Y.-N.**; Liu, Z.; Liu, J.; Hu, Y.; Cao, B., Unlocking the Potential of Shewanella in Metabolic Engineering: Current Status, Challenges, and Opportunities. *Metab. Eng.* **2025**, 89, 1-11.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano 2024</div><img src='images/Nano2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="3">
+
 
 3. **Liu, Y.-N.**; Liu, X.-W., Nanoscale Spatiotemporal Dynamics of Microbial Adhesion: Unveiling Stepwise Transitions with Plasmonic Imaging. *ACS Nano* **2024**, 18 (24), 16002-16010.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EI 2024</div><img src='images/EI2024.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="4">
+
 
 4. **Liu, Y. -N.**# ; Bairoliya, S.# ; Zaiden, N.; Cao, B., Establishment of Plastic-associated Microbial Community from Superworm Gut Microbiome. *Environ. Int.* **2024**, 108349. (#共同第一作者)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2023</div><img src='images/NL2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2023</div><img src='images/NL2023.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="5">
+
 
 5. **Liu, Y. -N.**#; Lv, Z.-T.#; Lv, W.-L.; Liu, D.-F.; Liu, X.-W., Label-Free Optical Imaging of the Electron Transfer in Single Live Microbial Cells. *Nano Lett.* **2023**, 23 (2), 558-566. (#共同第一作者)
 </div>
