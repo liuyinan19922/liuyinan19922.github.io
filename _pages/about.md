@@ -58,7 +58,7 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 
 （4）**合成生物学与微生物工程** ： 融合微生物学与材料科学，设计用于环境与能源应用的功能性细菌–材料杂合体系。
 
-**研究成果**： 截至目前，我已在 PNAS, ACS Nano, Nano Letters, Environmental Science & Technology, 和 Applied Environmental Microbiology 等期刊发表论文 16 篇。曾获中国科学院优秀博士学位论文奖和中国科大校长特别奖，研究成果被中国科学报、海峡时报、亚洲新闻台和马尼拉时报等国际媒体报道。
+**研究成果**： 截至目前，我已在 *PNAS, ACS Nano, Nano Letters, Environmental Science & Technology,* 和 *Applied Environmental Microbiology* 等期刊发表论文 16 篇。曾获中国科学院优秀博士学位论文奖和中国科学院院长优秀奖，研究成果被中国科学报、海峡时报、亚洲新闻台和马尼拉时报等国际媒体报道。
 
 
 # 🔥 News
