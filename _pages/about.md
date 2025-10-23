@@ -19,8 +19,9 @@ redirect_from:
 # 🔬 My Research Interests
 My research lies at the intersection of environmental microbiology, bioelectrochemistry, and microbial biotechnology, focusing on microbial processes at interfaces and their applications in environmental sustainability.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EET</div><img src='images/EET.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/EET.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 (1) **Microbial extracellular electron transfer** – investigated the mechanisms of electron exchange in electrochemically active bacteria using electrochemical, molecular, and imaging approaches.
 
@@ -29,8 +30,9 @@ My research lies at the intersection of environmental microbiology, bioelectroch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Superworm</div><img src='images/worm.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/worm.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 (3) **Microbial plastic degradation** – explored the potential of microbial communities and enzymes to break down synthetic polymers, supported by metagenomics and bioinformatics analyses.
 
@@ -81,8 +83,8 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 
 
 - **Liu, Y.-N.**; Liu, Z.; Liu, J.; Hu, Y.; Cao, B., Unlocking the Potential of Shewanella in Metabolic Engineering: Current Status, Challenges, and Opportunities. *Metab. Eng.* **2025**, 89, 1-11.
-  </div>
-  </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano 2024</div><img src='images/Nano2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,8 +92,8 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 
 
 - **Liu, Y.-N.**; Liu, X.-W., Nanoscale Spatiotemporal Dynamics of Microbial Adhesion: Unveiling Stepwise Transitions with Plasmonic Imaging. *ACS Nano* **2024**, 18 (24), 16002-16010.
-  </div>
-  </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EI 2024</div><img src='images/EI2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,8 +101,8 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 
 
 - **Liu, Y. -N.**# ; Bairoliya, S.# ; Zaiden, N.; Cao, B., Establishment of Plastic-associated Microbial Community from Superworm Gut Microbiome. *Environ. Int.* **2024**, 108349. (#共同第一作者)
-  </div>
-  </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2023</div><img src='images/NL2023.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -108,8 +110,8 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 
 
 - **Liu, Y. -N.**#; Lv, Z.-T.#; Lv, W.-L.; Liu, D.-F.; Liu, X.-W., Label-Free Optical Imaging of the Electron Transfer in Single Live Microbial Cells. *Nano Lett.* **2023**, 23 (2), 558-566. (#共同第一作者)
-  </div>
-  </div>
+</div>
+</div>
 
 - **Liu, Y. -N.**; Deng, S.; Bairoliya, S.; Cao, B. Mining Microbial Resources from Water. *Resour. Conserv. Recycl.* **2023**, 191, 106883.
 
