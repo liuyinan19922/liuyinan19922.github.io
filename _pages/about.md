@@ -163,7 +163,7 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 
 # 📖 Professional and Educational Background
 - *2011/09-2015/07* Nankai University, College of Environmental Science and Engineering, Associate Professor
-- *2021/10-2026/01* Nankai University, College of Environmental Science and Engineering, Postdoctoral Researcher
+- *2021/10-2026/01* Nanyang Technological University, School of Civil and Environmental Engineering, Postdoctoral Researcher
 - *2015/09-2021/07* University of Science and Technology of China, Dept. of Environmental Science and Engineering, Doctor of Engineering  
 - *2011/09-2015/07* Nankai University, College of Environmental Science and Engineering, Bachelor of Engineering
 
