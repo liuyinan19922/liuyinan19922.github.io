@@ -16,6 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 📝 Notice
+I have joined the College of Environmental Science and Engineering, Nankai University, as an Associate Professor in March 2026. I supervise doctoral and master's students. I look forward to communicating with professors and students, and welcome qualified candidates to apply for my graduate programs. 
+For further information, please contact me at: yinan.liu@nankai.edu.cn
+# 📝 通知
+我已于2026年3月入职南开大学环境科学与工程学院，任副教授，博士、硕士生导师。非常期待与其他老师、同学进行交流，也欢迎符合条件的同学报考我的研究生。
+详情请联系：yinan.liu@nankai.edu.cn
 # 🔬 My Research Interests
 My research lies at the intersection of environmental microbiology, bioelectrochemistry, and microbial biotechnology, focusing on microbial processes at interfaces and their applications in environmental sustainability.
 
@@ -113,6 +119,10 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 </div>
 </div>
 
+
+
+- **Liu, Y.-N.**; Hu, Y.; Cao, B., Controlling Biofilm Dynamics to Unlock the Future of Biofilm-Based Biocatalysis. *Curr. Opin. Biotechnol.* **2026**, 98, 103447.
+
 - **Liu, Y. -N.**; Deng, S.; Bairoliya, S.; Cao, B. Mining Microbial Resources from Water. *Resour. Conserv. Recycl.* **2023**, 191, 106883.
 
 - **Liu, Y. -N.**; Min, Y.; Chen, J.-J.; Zhang, F.; Liu, D.-F.; Liu, X.-W.; Tian, T.; Yu, H.-Q., C-Type Cytochromes Facilitated Cd(II) Complexation by an Electrochemically Active Bacterium Shewanella oneidensis MR-1. *ACS ES&T Water* **2022**, 2 (10), 1697-1706
@@ -127,6 +137,8 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 
 - Li, N.#; **Liu, Y. -N.**#; An, J.; Feng, C.; Wang, X., Bifunctional Quaternary Ammonium Compounds to Inhibit Biofilm Growth and Enhance Performance for Activated Carbon Air-cathode in Microbial Fuel Cells. *J. Power Sources* **2014**, 272, 895-899. (#共同第一作者)
 
+- Liu, Z.; **Liu, Y. -N.**; Teng, A.; Cao, B., Improving the Response of Microbial Fuel Cell-Based Biosensing through Optogenetic Enhancement of Electroactive Biofilms. *Environ. Sci. Technol.***2025**, 59, 12752-12762.
+
 - Song, W.; Liu, Y.; Wu, Y.; Wang, C.; Liu, Z.; **Liu, Y.-N**.; Zhang, X.; Cao, L.; Li, B.; Song, B., Single-Atom Bridges across Biotic-Abiotic Interfaces Facilitate Direct Electron Transfer for Solar-to-Chemical Conversion. *Nat. Commun.* **2025**, 16 (1), 6708
 
 - Lv, Z. T.;  Qian, C.; **Liu, Y. -N.**;  Lv, Y. H.; Liu, X.-W., Optical Tracking of Surfactant-Tuned Bacterial Adhesion: a Single-Cell Imaging Study. *Appl. Environ. Microbiol.* **2022**, 88 (23), e01626-22.
@@ -137,6 +149,10 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 
 - Feng, C.; **Liu, Y. -N.**; Li, Q.; Che, Y.; Li, N.; Wang, X., Quaternary Ammonium Compound in Anolyte without Functionalization Accelerates the Startup of Bioelectrochemical Systems Using Real Wastewater. *Electrochim. Acta* **2016**, 188, 801-808.
 
+- 王鑫; 关辽; 刘轶男; 张哲; 梅卓; 杨晓月; 一种人工湿地与微生物燃料电池结合的污水处理系统, 2020-01-31, 中国, ZL201510304331.9
+
+- 刘贤伟; 刘轶男; 吕振婷; 一种测定废水急性毒性的单细菌表面等离子体机械振动成像方法, 2020-05-19, 中国, ZL201910129292.1
+
 # 🎖 Honors and Awards
 - *2022* Chinese Academy of Sciences Outstanding Ph.D. Dissertation Award  
 - *2021* Chinese Academy of Sciences Presidential Scholarship  
@@ -145,9 +161,12 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 - *2020* National Scholarship for Doctoral Students  
 - *2018* The First Prize in Haichuan Young Scholars Symposium of Ocean University of China 
 
-# 📖 Educations
-- *2011/09-2015/07* Nankai University, College of Environmental Science and Engineering, Bachelor of Engineering
+# 📖 Professional and Educational Background
+- *2011/09-2015/07* Nankai University, College of Environmental Science and Engineering, Associate Professor
+- *2021/10-2026/01* Nankai University, College of Environmental Science and Engineering, Postdoctoral Researcher
 - *2015/09-2021/07* University of Science and Technology of China, Dept. of Environmental Science and Engineering, Doctor of Engineering  
+- *2011/09-2015/07* Nankai University, College of Environmental Science and Engineering, Bachelor of Engineering
+
 
 # 💬 Presentation and Talks
 
@@ -170,3 +189,11 @@ To date, I have published 16 peer-reviewed papers in journals such as *PNAS, ACS
 - Singapore-China Joint Symposium on AI & Sustainability, 28-30 Sep, 2025, Singapore
 
   [Poster] Unveiling plastic-degrading microbial resources from worm gut through enrichment and systems-level analyses
+
+- AIChE Annual Meeting, Nov, 2025, Sheraton Back Bay Boston, MA, USA
+
+  [Talk] Liu Yi-Nan; Sakcham Bairoliya; Bin Cao. From Plastic-Ingesting Worms to Engineered Microbiomes: Artificial Worm Gut As a Microbial Resource Reservoir for Bio-Upcycling of Plastics,
+
+- ASM Conference on Biofilms Nov, 2025, Portland, Ore, USA
+
+  [Talk] Bin Cao; Yinan Liu; Sakcham Bairoliya. Unveiling plastic-degrading potential in superworm gut microbiomes through biofilm enrichment and metagenomic profiling
